@@ -1,9 +1,10 @@
 PANDUAN APLIKASI
 1. donwload file penjualan di github
 2. kemudian extract file di folder xampp/htdocs
-3. jalankan server xampp untuk membuka localhost/phpmyadmin
-4. Upload database penjualan1.sql di server lokal phpmyadmin
-5. Buka text editor visual code dan pilih folder penjualan, lalu jalankan di terminal php artisan serve.
+3. Extract vendor.rar
+4. jalankan server xampp untuk membuka localhost/phpmyadmin
+5. Upload database penjualan1.sql di server lokal phpmyadmin
+6. Buka text editor visual code dan pilih folder penjualan, lalu jalankan di terminal php artisan serve.
 
 username = admin
 password = admin
